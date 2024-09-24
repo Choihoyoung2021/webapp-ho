@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Index Page</title>
+</head>
+<body>
+    <h1>환영합니다!</h1>
+    <a href="/hello">HelloServlet 호출</a>
+</body>
+</html>
